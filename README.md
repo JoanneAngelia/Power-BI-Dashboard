@@ -1,1 +1,3 @@
-# Power-BI-Dashboards[AdventureWorksCycles_Dashboards.pdf](https://github.com/JoanneAngelia/Power-BI-Dashboards/files/10159064/AdventureWorksCycles_Dashboards.pdf)
+Executive Summary
+
+![image](https://user-images.githubusercontent.com/119759258/205770632-82f980c7-3232-4a9a-ace6-272b09af9e90.png)
